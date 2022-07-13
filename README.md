@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IstratieStefan
+- 😲 I’m interested in Music
+- 🏫 I’m currently learning Game development
+- 😁 I’m looking to collaborate on projects
+- 📫 How to reach me :istratie.stefan123@gmail.com
