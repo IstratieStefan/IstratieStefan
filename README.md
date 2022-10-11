@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IstratieStefan
 - 😲 I’m interested in Music
-- 🏫 I’m currently learning Web Development and C++
+- 🏫 I’m currently learning Web Development, Java and C++
 - 😁 I’m looking to collaborate on projects
 - 📫 How to reach me :istratie.stefan123@gmail.com
