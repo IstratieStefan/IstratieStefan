@@ -1,4 +1,8 @@
 # Hi, i'm Stefan 😀 
+[![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
+[![Made with Bash](https://img.shields.io/badge/Bash->=3-blue?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/ "Go to Bash homepage")
+[![<3](https://img.shields.io/badge/<3-red)](https://)
+[![📘 - student](https://img.shields.io/badge/📘-student-pink)](https://)
 
 #### This is the place where I open source stuff and work on different projects 🪛. 
 #### I am still very new to programming so i am looking forward to learn all kinds of new things 🍎
