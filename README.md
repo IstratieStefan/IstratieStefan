@@ -1,7 +1,7 @@
 # Hi, i'm Stefan 😀 
+[![Languages - 🇷🇴🇺🇸](https://img.shields.io/badge/Languages-🇷🇴🇺🇸-blue)](https://)
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 [![<3](https://img.shields.io/badge/<3-red)](https://)
-[![📘 - student](https://img.shields.io/badge/📘-student-pink)](https://)
 
 #### This is the place where I open source stuff and work on different projects 🪛. 
 #### I am still very new to programming so i am looking forward to learn all kinds of new things 🍎
