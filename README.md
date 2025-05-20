@@ -1,6 +1,8 @@
 # Hi, i'm Stefan Istratie
 
-#### I am still very new to programming so i am looking forward to learn all kinds of new things 🍎
+#### Student passionate about Coding and Hardware
+
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=1685&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ## Ways to contact me 🤝
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:istratie.stefan.work@gmail.com)
